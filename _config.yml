@@ -6,16 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Travis Swicegood's gif collection
+email: gifs@domain51.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Decided to keep all of my gifs on GitHub. I'm eventually gonna make a site
+  for exploring them too.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://gifs.travisswicegood.com" # the base hostname & protocol for your site
+twitter_username: tswicegood
+github_username: tswicegood
 
 # Build settings
 markdown: kramdown
